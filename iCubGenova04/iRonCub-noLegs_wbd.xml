@@ -100,6 +100,8 @@
     <xi:include href="wrappers/VFT/torso-VFT_wrapper.xml" /> -->
 
     <!-- CALIBRATORS -->
+    <xi:include href="calibrators/left_arm-calib.xml" />
+    <xi:include href="calibrators/right_arm-calib.xml" />
     <xi:include href="calibrators/left_arm-calib_iRonCub.xml" />
     <xi:include href="calibrators/right_arm-calib_iRonCub.xml" />
 <!--     <xi:include href="calibrators/left_leg-calib.xml" />
